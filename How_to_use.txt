@@ -1,0 +1,4 @@
+train.py 실행 -> PPO_pretrained_model 폴더에 모델 저장됨
+학습 끝낼때는 train 실행 멈추고 PPO_pretrained_model 폴더에서 원하는 타임스탭 들어가면 파일 2개 있는거 복사
+PPO_trained_model\quadruped_robot-v0 폴더 들어가서 원래 파일 지우고 붙여넣기
+test.py 실행
